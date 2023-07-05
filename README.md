@@ -1,4 +1,4 @@
-# PhD-Work
+# Content
 
 The following code snippets provide a solution for incorporating DTI tracts into skeletal muscle models using MATLAB within the FEBIO software environment.
 
