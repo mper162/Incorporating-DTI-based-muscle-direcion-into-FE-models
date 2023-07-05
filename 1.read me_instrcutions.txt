@@ -1,0 +1,7 @@
+1. Tract to direction.m includes how to convert MRTIX data to Matlab compatibly.
+
+2. Febio to elem scripts.m arrange the febio element and node list to  a matrix which can be processed easily by Matlab
+
+3. Find direction to elements.m  map the elements to fibre direction. (Mix of 1 and 2 scripts' results)
+
+4. Exporting feb file and extracting mesh elements and nodes is the first thing. Copy all the muscle elements and nodes separately into two text files. Then Start running from first script. 
